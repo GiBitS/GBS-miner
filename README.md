@@ -1,8 +1,6 @@
-# Bottle
+# 
 
 > A Bitcoin Browser
-
-![bottle](./bottle2.png)
 
 > Did you know that you can upload files directly to the Bitcoin network, as permanent, immutable, and monetizable Bitcoin transactions?
 > 
@@ -12,15 +10,13 @@
 > 
 > And because it's on the blockchain, ownership is provable, the content is permanent, and it can be directly monetized forever.
 
-Bottle is a browser that lets you surf the Bitcoin network for these things, and brings them all together through Bitcoin native URI schemes such as [B://](https://b.bitdb.network) or [C://](https://c.bitdb.network) (or any other protocols we add in the future).
+Bottle is a browser that lets you surf the Bitcoin network for these things, and brings them all together through Bitcoin native URI schemes such as (or any other protocols we add in the future).
 
 Note that the address bar below uses a b:// address:, not HTTP or HTTPS. This HTML file is 100% hosted and served from the Bitcoin blockchain, and has nothing to do with where a "server" is located.
 
-![bottle_html](./bottle_html.jpg)
+
 
 # Download
-
-You can download it at https://bottle.bitdb.network
 
 # How it Works
 
@@ -45,7 +41,7 @@ npm install -g electron
 Download the repository and install. First, clone it.
 
 ```
-git clone https://github.com/interplanaria/bottle.git
+git 
 ```
 
 Then install dependencies
