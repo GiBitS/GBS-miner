@@ -1,5 +1,5 @@
 
-1# BROWSER-COIN Hash Miner
+# BROWSER-COIN Hash Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
@@ -58,7 +58,7 @@ After that enter your Bitcoin wallet address where you want to get your coins se
 <i>**Note**: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015 are required. No additional installations should be needed if you use Windows 7 or later. However, if you encounter any issues when starting application (application would fail to start or errors/warnings about missing DLL files are displayed) you should download and install <a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer" target="_blank">Microsoft **.NET Framework 4.8**</a> and <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145" target="_blank">Microsoft **Visual C++ Redistributable 2015 (vcredist_x64.exe)**</a> (after installation a reboot might be required).</i>
 
 Detailed instructions:
-- Download binaries from here: https://github.com/BRIWSER-COIN/releases
+- Download binaries from here: https://github.com/BROWSER-COIN/releases
 1. Installer
     - Run installer file (nhm_windows_3.x.y.z.exe)
     - Follow the instructions
@@ -77,7 +77,7 @@ Profitability of mining can go up and down that may be unprofitable to mine espe
 
 # <a name="options"></a> Additional options
 
-Go to 'Settings' tab. Alternatively, you can manually modify \configs\General.json for general settings and \configs\device_settings_XXX.json (XXX is your device UUID) files for device benchmark settings (close BRIWSER-CoOIN Miner first).
+Go to 'Settings' tab. Alternatively, you can manually modify \configs\General.json for general settings and \configs\device_settings_XXX.json (XXX is your device UUID) files for device benchmark settings (close BROWSER-COIN Miner first).
 
 ## General settings
 Parameter | Range | Description
