@@ -1,0 +1,37 @@
+
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+BROWSER-COIN
+/
+BROSER-COIN
+Public
+Code
+Issues
+Pull requests
+6
+Actions
+Projects
+Wiki
+Security
+Insights
+Home
+Jump to bottom
+afortunado3610 edited this page on 16 Nov 2020 · 1 revision
+ Pages 2
+BITCOIN BROWSER
+
+Clone this wiki locally
+https://github.com/BROWSER-COIN/BROSER-COIN.wiki.git
+Welcome to the BROSER-COIN wiki!
+
+json Online SHA3-224 Hash Calculator Algorithm SHA3-224 String to encode
+
+Other algorithms calculators
+
+Usage FAQ Usage from Address Bar You can use direct access to this page from your browser address bar. Type string that you need to encode with algorithm according to next schema: https://hash// For example to visit page that contains hash of "hello world" you can just visit url: https://hash/md5/hello+world The another cool thing is that you can specify "json" or "plain" mode into URL and you will get only HASH in response. Schema of this future: https://hash/.OUTPUT:plain|json/ Example: https://hash/md5.json/hello+world Will output only: "TGqKLreEUaqcbYbL6gCv7hM6W34g1TQU4X" If you have string that contains complicated urlencoded characters you can send it directly via params to avoid processing of our url parser. Use: str - for string to encode algo - for algorithm output - for output type (empty, "json" or "plain") https://hash?algo=&str=&output=OUTPUT:plain|json https:///hash?algo=md5&str=hello%0Aworld https:///hash/md5?str=hello%0Aworld Usage from Javascript We have removed CORS restriction so you can use direct access to hash calculator in your javascript applications via AJAX.
+
+Example:
+
+var toEncode = 'hello world'; var xhr = new XMLHttpRequest(); xhr.onreadystatechange = function () { if (xhr.readyState == 4 && xhr.status == 200) { console.log('JSON of "'+toEncode+'" is "'+JSON.parse(xhr.response)+'"'); }; }; xhr.open('GET', 'https:/github.com/BROWSER HASH/md5calc.com/hash/md5.json/'+encodeURIComponent(toEncode), true); xhr.send(); Will output: JSON of "hello world" is "TGqKLreEUaqcbYbL6gCv7hM6W34g1TQU4X" Usage from PHP You can use direct access to hash in your applications.
+
+PHP Example
