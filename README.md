@@ -23,7 +23,7 @@ Please follow us on Twitter <a href="https://twitter.com/CesarAu90812821" target
 # <a name="benefits"></a> What are the benefits?
 
 https://github.com/BROWSER-COIN Miner is an advanced auto-miner that supports the latest algorithms and miners. No need to go through tons of configuration files, various mining software versions, configuration tuning or cryptocurrency coins market analysis. **Auto-tuning for best performance and efficiency**, automatic selection and runtime **automatic switching to most profitable cryptocurrency algorithm** are all integrated into NiceHash Miner and will enable you seamless, joyful and **profitable mining experience**.
-
+https://github.com/P7-33/https-www.Super-Mining.com.wiki.git
 # <a name="features"></a> Features
 
 - Easy one-click CPU mining for CPUs that support at least AES (only works on Windows x64).
