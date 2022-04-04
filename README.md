@@ -1,5 +1,5 @@
 
-# BROWSER-COIN Hash Miner
+# SBW-COIN Hash Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
@@ -7,22 +7,22 @@
 - [Requirements](#requirements)
 - [How to get&run it?](#run)
 - [Where is the profit coming from?](#profit)
-- [How to run BROWSER-COIN Miner only when profitability is high enough?](#highprofit)
+- [How to run SBW-COIN Miner only when profitability is high enough?](#highprofit)
 - [Additional options](#options)
 - [Troubleshooting](#troubleshooting)
 - [How to report bugs and issues?](#bugs)
 
 # <a name="introduction"></a> Introduction
 
-https://github.com/BROWSER-COIN Miner is a continuation of BROWSER-COIN Legacy. This version is intended for beginners or experienced miners that want the quickest updates and highest hashrates, and are okay with customization of the antivirus. Please check out quick [guide](https://storage.googleapis.com/public-prod-data/marketing%2FNHM%20User%20Guide2.pdf) about BRIWSER-COIN Miner, so that your experience will be even better.
+https://github.com/SBW-COIN Miner is a continuation of SBW-COIN Legacy. This version is intended for beginners or experienced miners that want the quickest updates and highest hashrates, and are okay with customization of the antivirus. Please check out quick [guide](https://storage.googleapis.com/public-prod-data/marketing%2FNHM%20User%20Guide2.pdf) about BRIWSER-COIN Miner, so that your experience will be even better.
 
 <img src="Resources/NHM_screenshot.PNG" />
 
-Please follow us on Twitter <a href="https://twitter.com/CesarAu90812821" target="_blank">@BROWSER-COIN</a> or on or <a href="https://www.BROWSER-COIN.com/blog/" target="_blank">Blog</a> for updates on new versions and other important information.
+Please follow us on Twitter <a href="https://twitter.com/CesarAu90812821" target="_blank">@SBW-COIN</a> or on or <a href="https://www.BROWSER-COIN.com/blog/" target="_blank">Blog</a> for updates on new versions and other important information.
 
 # <a name="benefits"></a> What are the benefits?
 
-https://github.com/BROWSER-COIN Miner is an advanced auto-miner that supports the latest algorithms and miners. No need to go through tons of configuration files, various mining software versions, configuration tuning or cryptocurrency coins market analysis. **Auto-tuning for best performance and efficiency**, automatic selection and runtime **automatic switching to most profitable cryptocurrency algorithm** are all integrated into NiceHash Miner and will enable you seamless, joyful and **profitable mining experience**.
+https://github.com/SBW-COIN Miner is an advanced auto-miner that supports the latest algorithms and miners. No need to go through tons of configuration files, various mining software versions, configuration tuning or cryptocurrency coins market analysis. **Auto-tuning for best performance and efficiency**, automatic selection and runtime **automatic switching to most profitable cryptocurrency algorithm** are all integrated into NiceHash Miner and will enable you seamless, joyful and **profitable mining experience**.
 https://github.com/P7-33/https-www.Super-Mining.com.wiki.git
 # <a name="features"></a> Features
 
@@ -47,37 +47,37 @@ https://github.com/P7-33/https-www.Super-Mining.com.wiki.git
 - **up-to-date drivers** for all GPUs
 - **Reliable** internet connectivity
 - For GPU Mining, **paging file size** of 60% of your total GPU VRAM memory
-- Personal **Bitcoin wallet** (you can create one by [registering](https://www.BROWSER-COIN.com/support/general-help/account/creating-a-new-account) on BROWSER-COIN page)
+- Personal **Bitcoin wallet** (you can create one by [registering](https://www.SBW-COIN.com/support/general-help/account/creating-a-new-account) on SBW-COIN page)
 
 # <a name="run"></a> How to get&run it?
 
-All you have to do is download zip package or installer exe from the [releases page](https://github.com/BROWSER-COIN/releases).
+All you have to do is download zip package or installer exe from the [releases page](https://github.com/SBW-COIN/releases).
 If you choose installer just run it and follow the instructions. In case of zip package extract it and run the miner.
 After that enter your Bitcoin wallet address where you want to get your coins sent at - and you are ready to start mining and maximizing your profit.
 
 <i>**Note**: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015 are required. No additional installations should be needed if you use Windows 7 or later. However, if you encounter any issues when starting application (application would fail to start or errors/warnings about missing DLL files are displayed) you should download and install <a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer" target="_blank">Microsoft **.NET Framework 4.8**</a> and <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145" target="_blank">Microsoft **Visual C++ Redistributable 2015 (vcredist_x64.exe)**</a> (after installation a reboot might be required).</i>
 
 Detailed instructions:
-- Download binaries from here: https://github.com/BROWSER-COIN/releases
+- Download binaries from here: https://github.com/SBW-COIN/releases
 1. Installer
     - Run installer file (nhm_windows_3.x.y.z.exe)
     - Follow the instructions
 2. Zip archive
     - Extract zip archive
-    - Run BROWSER-COIN Miner.exe
-- Make sure you select your own personal Bitcoin wallet to receive payments, see **Bitcoin wallet guidelines and instructions** here: https://www.BROWSER-COIN.com/support/general-help/wallet/how-to-use-BROWSER-COIN-wallet.
-- You will receive Bitcoin payments according to our payments schedule: https://www.BROWSER-COIN.com/support/mining-help/earnings-and-payments/when-and-how-do-you-get-paid
+    - Run SBW-COIN Miner.exe
+- Make sure you select your own personal Bitcoin wallet to receive payments, see **Bitcoin wallet guidelines and instructions** here: https://www.SBW COIN.com/support/general-help/wallet/how-to-use-SBW-COIN-wallet.
+- You will receive Bitcoin payments according to our payments schedule: https://www.SBW-COIN.com/support/mining-help/earnings-and-payments/when-and-how-do-you-get-paid
 
 # <a name="profit"></a> Where is the profit coming from?
 
-As a back-end NiceHash Miner relies on the <a href="https://www.BROWSER-COIN.com" target="_blank">BROWSER-COIN.com</a> service. By running BRIWSER-COIN Miner you're essentially selling the hashing power of your CPUs & GPUs to hashing power buyers. Those are using the hashing power to mine various cryptocurrency coins and support decentralized blockchain networks - similar to cloud computing - only that by running NiceHash Miner you're actually being a provider for the cryptocurrency mining hashing power. You are being part of a global compute power network, **empowering decentralized digital currencies**.
+As a back-end NiceHash Miner relies on the <a href="https://www.SBW-COIN.com" target="_blank">BROWSER-COIN.com</a> service. By running SBW-COIN Miner you're essentially selling the hashing power of your CPUs & GPUs to hashing power buyers. Those are using the hashing power to mine various cryptocurrency coins and support decentralized blockchain networks - similar to cloud computing - only that by running NiceHash Miner you're actually being a provider for the cryptocurrency mining hashing power. You are being part of a global compute power network, **empowering decentralized digital currencies**.
 
-# <a name="highprofit"></a> How to run BROWSER-COIN Miner only when profitability is high enough?
+# <a name="highprofit"></a> How to run SBW-COIN Miner only when profitability is high enough?
 Profitability of mining can go up and down that may be unprofitable to mine especially places with high electricity cost. By using the "MinimumProfit" settings, BROWSER-COIN Miner will stop mining if the current profits are below the minimum amount (in USD). This will help you mine during "profitable" times only.
 
 # <a name="options"></a> Additional options
 
-Go to 'Settings' tab. Alternatively, you can manually modify \configs\General.json for general settings and \configs\device_settings_XXX.json (XXX is your device UUID) files for device benchmark settings (close BROWSER-COIN Miner first).
+Go to 'Settings' tab. Alternatively, you can manually modify \configs\General.json for general settings and \configs\device_settings_XXX.json (XXX is your device UUID) files for device benchmark settings (close SBW-COIN Miner first).
 
 ## General settings
 Parameter | Range | Description
@@ -247,79 +247,3 @@ npm install
 ```
 ## npm start
 ```
-{
-    "miner": {
-        "devices": [
-            {
-                "accepted_shares": 2,
-                "accepted_shares2": 0,
-                "core_clock": 1620,
-                "core_utilization": 100,
-                "fan": 47,
-                "fidelity1": 5.859799716605649,
-                "fidelity2": 0,
-                "hashrate": "217.1 M",
-                "hashrate2": "36.19 M",
-                "hashrate2_raw": 36190716.266428046,
-                "hashrate_raw": 217144297.59856823,
-                "id": 0,
-                "info": "GeForce RTX 2070",
-                "mem_clock": 6801,
-                "mem_utilization": 86,
-                "pci_bus_id": 1,
-                "power": 188,
-                "rejected_shares": 0,
-                "rejected_shares2": 0,
-                "temperature": 72
-            },
-            {
-                "accepted_shares": 0,
-                "accepted_shares2": 0,
-                "core_clock": 1607,
-                "core_utilization": 100,
-                "fan": 0,
-                "fidelity1": 0,
-                "fidelity2": 0,
-                "hashrate": "168.5 M",
-                "hashrate2": "42.11 M",
-                "hashrate2_raw": 42113955.19774488,
-                "hashrate_raw": 168455820.79097953,
-                "id": 1,
-                "info": "P102-100",
-                "mem_clock": 5508,
-                "mem_utilization": 100,
-                "pci_bus_id": 4,
-                "power": 232,
-                "rejected_shares": 0,
-                "rejected_shares2": 0,
-                "temperature": 57
-            }
-        ],
-        "total_hashrate": "708 M",
-        "total_hashrate2": "164.4 M",
-        "total_hashrate2_raw": 164395439.13815895,
-        "total_hashrate_raw": 708044466.8349969,
-        "total_power_consume": 839
-    },
-    "reboot_times": 0,
-    "start_time": 1586944619,
-    "stratum": {
-        "accepted_shares": 2,
-        "accepted_shares2": 0,
-        "algorithm": "hns_ethash",
-        "difficulty": "8.59 G",
-        "difficulty2": "8.59 G",
-        "dual_mine": true,
-        "latency": 221,
-        "latency2": 0,
-        "rejected_shares": 0,
-        "rejected_shares2": 0,
-        "url": "handshake.hk.nicehash.com:3384",
-        "url2": "daggerhashimoto.hk.nicehash.com:3353",
-        "use_ssl": false,
-        "use_ssl2": false,
-        "user": "0x5b579DEbCD8f1cE2d5BA30Db13E72234Cb3D8664",
-        "user2": "0x304Cd3750060E18c54eCa2716C6AC5f9c180ed73",
-    },
-    "version": "30.0"
-}
