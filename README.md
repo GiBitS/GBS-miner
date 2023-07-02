@@ -49,7 +49,7 @@ https://github.com/GIMICI/https-www.Gimici-Mining.com/tree/master
 - **up-to-date drivers** for all GPUs
 - **Reliable** internet connectivity
 - For GPU Mining, **paging file size** of 60% of your total GPU VRAM memory
-- Personal **Bitcoin wallet** (you can create one by [registering](https://www.GMC-COIN.com/support/general-help/account/creating-a-new-account) on GMC-COIN page)
+- Personal **GMC wallet** (you can create one by [registering](https://www.GMC-COIN.com/support/general-help/account/creating-a-new-account) on GMC-COIN page)
 
 # <a name="run"></a> How to get&run it?
 
@@ -60,14 +60,14 @@ After that enter your wallet address where you want to get your coins sent at - 
 <i>**Note**: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015 are required. No additional installations should be needed if you use Windows 7 or later. However, if you encounter any issues when starting application (application would fail to start or errors/warnings about missing DLL files are displayed) you should download and install <a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer" target="_blank">Microsoft **.NET Framework 4.8**</a> and <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145" target="_blank">Microsoft **Visual C++ Redistributable 2015 (vcredist_x64.exe)**</a> (after installation a reboot might be required).</i>
 
 Detailed instructions:
-- Download binaries from here: https://github.com/SBW-COIN/releases
+- Download binaries from here: https://github.com/GMC-COIN/releases
 1. Installer
     - Run installer file (nhm_windows_3.x.y.z.exe)
     - Follow the instructions
 2. Zip archive
     - Extract zip archive
     - Run GMC-COIN Miner.exe
-- Make sure you select your own personal Bitcoin wallet to receive payments, see ** wallet guidelines and instructions** here: https://www.GMC-COIN.com/support/general-help/wallet/how-to-use-GMC-COIN-wallet.
+- Make sure you select your own personal GMC wallet to receive payments, see ** wallet guidelines and instructions** here: https://www.GMC-COIN.com/support/general-help/wallet/how-to-use-GMC-COIN-wallet.
 - You will receive payments according to our payments schedule: https://www.GMC-COIN.com/support/mining-help/earnings-and-payments/when-and-how-do-you-get-paid
 
 # <a name="profit"></a> Where is the profit coming from?
@@ -75,7 +75,7 @@ Detailed instructions:
 As a back-end NiceHash Miner relies on the <a href="https://www.GMC-COIN.com" target="_blank"GMC--COIN.com</a> service. By running GMC-COIN Miner you're essentially selling the hashing power of your CPUs & GPUs to hashing power buyers. Those are using the hashing power to mine various cryptocurrency coins and support decentralized blockchain networks - similar to cloud computing - only that by running NiceHash Miner you're actually being a provider for the cryptocurrency mining hashing power. You are being part of a global compute power network, **empowering decentralized digital currencies**.
 
 # <a name="highprofit"></a> How to runGMC-COIN Miner only when profitability is high enough?
-Profitability of mining can go up and down that may be unprofitable to mine especially places with high electricity cost. By using the "MinimumProfit" settings, BROWSER-COIN Miner will stop mining if the current profits are below the minimum amount (in USD). This will help you mine during "profitable" times only.
+Profitability of mining can go up and down that may be unprofitable to mine especially places with high electricity cost. By using the "MinimumProfit" settings,GMC-COIN Miner will stop mining if the current profits are below the minimum amount (in USD). This will help you mine during "profitable" times only.
 
 # <a name="options"></a> Additional options
 
@@ -84,8 +84,7 @@ Go to 'Settings' tab. Alternatively, you can manually modify \configs\General.js
 ## General settings
 Parameter | Range | Description
 -----------------|----------|-------------------
-ConfigFileVersion | Version | This is to identify which version of GMC-COINMiner did the config file is made from.
-BitcoinAddress | valid BTC address | The address that GMC--COIN Miner will mine to.
+ConfigFileVersion | Version | This is to identify which version of GMC-COINMiner did the config file is made from:GMC Address | valid BTC address | The address that GMC--COIN Miner will mine to.
 WorkerName | text | To identify the computer on GMC-COIN web UI.
 RigGroup | text | To identify the group your rig belongs to.
 ServiceLocation | number | Used to select the location of the mining server.
@@ -108,7 +107,7 @@ DisableWindowsErrorReporting | true or false | Set it to true if you would like 
 ShowInternetConnectionWarning | true or false | Set to true if you would like to get a warning if the internet connection is not available.
 MinimumProfit | number | If set to any value,GMC-COIN Miner will stop mining if the calculated profit falls below the set amount.
 MineRegardlessOfProfit | true or false | When set to true, GMC-COIN Miner will mine regardless of your mining profitability.
-UseIFTTT | true or false | When set to true, BROWSER-COIN Miner will use the API Key you provide to notify you when profitability has gone below the profitability you have configured.
+UseIFTTT | true or false | When set to true, GMC-COIN Miner will use the API Key you provide to notify you when profitability has gone below the profitability you have configured.
 IFTTTKey | text | IFTTT key for notifications.
 Use3rdPartyMinersTOS | 0 or 4 | If set to 4, you agree with the 3rd Party Miners TOS
 Hwid | text | Your hardware ID. Better left intact
@@ -213,7 +212,7 @@ https://github.com/GMC-COIN
 
 is a browser that lets you surf the GMC network for these things, and brings them all together through Bitcoin native URI schemes such as [B://](https://b.bitdb.network) or [C://](https://c.bitdb.network) (or any other protocols we add in the future).
 
-Note that the address bar below uses a b:// address:, not HTTP or HTTPS. This HTML file is 100% hosted and served from the Bitcoin blockchain, and has nothing to do with where a "server" is located.
+Note that the address bar below uses a b:// address:, not HTTP or HTTPS. This HTML file is 100% hosted and served from the Gimici blockchain, and has nothing to do with where a "server" is located.
 
 # Download
 
