@@ -1,5 +1,5 @@
 
-# SBW-COIN Hash Miner
+# Gimici Hash Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
