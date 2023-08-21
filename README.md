@@ -1,5 +1,5 @@
 
-# Gimici Hash Miner
+# GBS Hash Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
