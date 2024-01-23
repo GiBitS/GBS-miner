@@ -1,5 +1,4 @@
-
-#  GBS Hash Miner
+#  GBS  Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
